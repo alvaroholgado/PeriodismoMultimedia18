@@ -25,7 +25,7 @@ Proy 2 - Minervaflix
 
 Proy 3 - Cerquita de Lorca 
 ========================================
-		Mariela - Alvaro 
+		Mariela - Álvaro 
 		**Las ciudades cuentan cosas** 
 		Hay una huella del tiempo que es la huella de lorca 
 
